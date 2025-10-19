@@ -1,0 +1,11 @@
+--extra-index-url https://${AZURE_DEVOPS_ACCESS_TOKEN}@pkgs.dev.azure.com/alpha10x/ALPHA10X/_packaging/alpha10x/pypi/simple/
+
+pydantic
+langchain-core
+langgraph
+elasticsearch
+alphahub
+safe_llm_core
+alphahub
+alphalanggraph
+alphaelastic
